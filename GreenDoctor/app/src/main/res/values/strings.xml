@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Green Doctor</string>
+    <string name="buttonSelectPhoto">Select from Gallery</string>
+    <string name="buttonTakePhoto">Start Camera</string>
+    <string name="buttonDiagnose">Detect Disease</string>
+    <string name="defaultImage">Currently default image is set, Please select an image</string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="welcome_to_green_doctor">Welcome to Green Doctor</string>
+</resources>
