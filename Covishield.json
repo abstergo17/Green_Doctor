@@ -1,6 +1,0 @@
-{ 
-    "name": "Covishield", 
-    "seconddose": "28 days",
-     "sideeffects":  ["High Fever", "Headache"], 
-     "precautions": ["Take Paracetamol for fever","Consult doctor for other side effects."] 
-}
