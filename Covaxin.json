@@ -1,6 +1,6 @@
 { 
     "name": "Covaxin", 
     "seconddose": "After 28 days but before 84 days", 
-    "sideeffects": ["Chills";"Cough";"Shortness of breath","Fatigue"], 
+    "sideeffects": ["Chills","Cough","Shortness of breath","Fatigue"], 
     "precautions": ["Oxygen cylinder for Shortness of Breath","Cough medicines"] 
 }
